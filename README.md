@@ -64,3 +64,4 @@ A collections of articles I have acquired over the years
 - https://mobile-first.abookapart.com/03-chapter-1/
 - http://www.radicalsimpli.city/
 - https://www.uber.com/en-NZ/blog/uber-eats-com-web-app-rewrite/
+- https://epicreact.dev/why-i-love-react/
