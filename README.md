@@ -8,6 +8,7 @@ A collections of articles I have acquired over the years
 - https://technicallychallenged.substack.com/p/how-to-learn-hard-things-in-tech
 - https://chriskiehl.com/article/the-tyranny-of-what-if-it-changes
 - https://seths.blog/2022/10/im-not-that-smart/
+- https://eugeneyan.com/writing/simplicity/
 
 ## All
 
