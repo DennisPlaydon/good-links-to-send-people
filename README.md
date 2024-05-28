@@ -12,6 +12,7 @@ A collections of articles I have acquired over the years
 
 ## All
 
+- https://github.com/practical-tutorials/project-based-learning
 - https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf
 - https://bravenewgeek.com/understanding-consensus/
 - https://en.wikipedia.org/wiki/Two_Generals%27_Problem
